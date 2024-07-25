@@ -1,0 +1,6 @@
+@ReactTsNetcore.Server_HostAddress = http://localhost:5121
+
+GET {{ReactTsNetcore.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

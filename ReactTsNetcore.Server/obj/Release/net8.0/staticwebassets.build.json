@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "jeoRy31DVUdFx9Cj+eZTRBXYAbTSrWZKa+ZLJz36/E4=",
+  "Source": "ReactTsNetcore.Server",
+  "BasePath": "_content/ReactTsNetcore.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\RiderProjects\\ReactTsNetcore\\reacttsnetcore.client\\reacttsnetcore.client.esproj",
+      "Version": 2,
+      "Source": "reacttsnetcore.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
